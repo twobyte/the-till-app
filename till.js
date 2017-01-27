@@ -48,3 +48,4 @@ till.generateReceipt = function(items){
 }
 
 module.exports = till;
+//module.exports = inventory;
